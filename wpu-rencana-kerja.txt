@@ -1,0 +1,8 @@
+RENCANA KERJA WPU
+
+- Javascrip
+  *Web login
+  *autentikasi
+- JIRA
+- Glints
+- Selenium
