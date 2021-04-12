@@ -8,4 +8,5 @@ RENCANA KERJA WPU
 - JIRA
  *black box testing
 - Glints
+ * data analyst
 - Selenium
