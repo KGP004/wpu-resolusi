@@ -8,3 +8,5 @@ RENCANA KERJA WPU
 - JIRA
  *black box testing
 - Selenium
+- belajar java programming 
+ *node.js
