@@ -7,6 +7,4 @@ RENCANA KERJA WPU
 - Database Basics
 - JIRA
  *black box testing
-- Glints
- * data analyst
 - Selenium
