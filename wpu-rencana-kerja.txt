@@ -7,3 +7,6 @@ RENCANA KERJA WPU
 - JIRA
 - Glints
 - Selenium
+- web scrapping
+ *python
+ 
