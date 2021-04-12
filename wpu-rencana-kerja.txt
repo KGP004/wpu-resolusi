@@ -3,7 +3,9 @@ RENCANA KERJA WPU
 - Javascrip
   *Web login
   *autentikasi
+  ^ Laravel
 - Database Basics
 - JIRA
+ *black box testing
 - Glints
 - Selenium
