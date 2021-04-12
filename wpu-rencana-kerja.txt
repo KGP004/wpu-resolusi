@@ -3,6 +3,7 @@ RENCANA KERJA WPU
 - Javascrip
   *Web login
   *autentikasi
+- Database Basics
 - JIRA
 - Glints
 - Selenium
