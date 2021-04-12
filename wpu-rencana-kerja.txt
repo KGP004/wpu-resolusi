@@ -1,5 +1,8 @@
 RENCANA KERJA WPU
 
-- Javascript
+- Javascrip
+  *Web login
+  *autentikasi
 - JIRA
 - Glints
+- Selenium
